@@ -23,5 +23,24 @@
 // Import partials:
 
 // Custom styles:
+a:hover {
+text-decoration: underline; 
+}
+
+.nav-link active  {
+font-weight: bold;
+}
+
+.jumbotron {
+    background: url('../img/pirate-ship.jpg') no-repeat center; 
+    background-size: cover;
+  }
+
+  .container {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+  }
+
+ 
 
 
