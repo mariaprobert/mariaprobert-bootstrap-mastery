@@ -23,7 +23,7 @@
 // Import partials:
 
 // Custom styles:
-a:hover {
+navbar-nav:hover {
 text-decoration: underline; 
 }
 
@@ -31,16 +31,23 @@ text-decoration: underline;
 font-weight: bold;
 }
 
-.jumbotron {
-    background: url('../img/pirate-ship.jpg') no-repeat center; 
+#jumbotron {
+    background: url(../img/pirate-ship.jpg) no-repeat center; 
     background-size: cover;
   }
 
-  .container {
+  .navbar-brand {
     font-family: 'Open Sans', sans-serif;
     font-family: 'Ubuntu', sans-serif;
   }
 
- 
+
+ .byline {
+  text-decoration: bold;
+ }
+
+ .attribute {
+  text-decoration-color: aqua;
+ }
 
 
