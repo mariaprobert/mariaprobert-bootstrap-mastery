@@ -34,6 +34,8 @@ font-weight: bold;
 #jumbotron {
     background: url(../img/pirate-ship.jpg) no-repeat center; 
     background-size: cover;
+    color: white;
+    padding-top: 12rem
   }
 
   .navbar-brand {
@@ -48,6 +50,10 @@ font-weight: bold;
 
  .attribute {
   text-decoration-color: aqua;
+ }
+
+ .container {
+  text-align: center;
  }
 
 
